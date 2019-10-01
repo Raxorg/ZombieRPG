@@ -39,6 +39,9 @@ com_crashlytics_export_strings.xml
 /android/bin/
 /core/bin/
 /desktop/bin/
+/android/libs/
+/core/libs/
+/desktop/libs/
 /html/bin/
 /ios/bin/
 /ios-moe/bin/
