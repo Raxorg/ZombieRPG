@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580991336873",
+    "firebase_url": "https://zombierpg-c83b2.firebaseio.com",
+    "project_id": "zombierpg-c83b2",
+    "storage_bucket": "zombierpg-c83b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580991336873:android:0e14535c598c0dfdd384b8",
+        "android_client_info": {
+          "package_name": "com.jorgeluis.zombierpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580991336873-pm320ghdcf6n87er40m9q042jviggngs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jorgeluis.zombierpg",
+            "certificate_hash": "926f2e90308d1fe6fe0554713ab434e5f440e4c6"
+          }
+        },
+        {
+          "client_id": "580991336873-ulv4poposiqhddvbr0bqp6md3gpn1lga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VlJyKpxqNjYFJeuh7AnlE4G_cDv4zgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580991336873-ulv4poposiqhddvbr0bqp6md3gpn1lga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

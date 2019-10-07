@@ -18,7 +18,7 @@ android {
     }
     defaultConfig {
         applicationId "com.jorgeluis.zombierpg"
-        minSdkVersion 9
+        minSdkVersion 17
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -142,3 +142,5 @@ idea {
         }
     }
 }
+
+apply plugin: 'com.google.gms.google-services'
